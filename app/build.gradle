@@ -24,4 +24,5 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation "androidx.appcompat:appcompat:$var.AppCompatVersion"
     implementation "androidx.constraintlayout:constraintlayout:$var.ConstraintLayoutVersion"
+    implementation "com.shuyu:GSYVideoPlayer:$var.GSYVideoPlayerVersion"
 }
